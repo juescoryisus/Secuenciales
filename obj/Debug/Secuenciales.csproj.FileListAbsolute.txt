@@ -1,0 +1,10 @@
+C:\Users\jesus\source\repos\Secuenciales\Secuenciales\bin\Debug\Secuenciales.exe.config
+C:\Users\jesus\source\repos\Secuenciales\Secuenciales\bin\Debug\Secuenciales.exe
+C:\Users\jesus\source\repos\Secuenciales\Secuenciales\bin\Debug\Secuenciales.pdb
+C:\Users\jesus\source\repos\Secuenciales\Secuenciales\obj\Debug\Secuenciales.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\Secuenciales\Secuenciales\obj\Debug\Secuenciales.Form1.resources
+C:\Users\jesus\source\repos\Secuenciales\Secuenciales\obj\Debug\Secuenciales.Properties.Resources.resources
+C:\Users\jesus\source\repos\Secuenciales\Secuenciales\obj\Debug\Secuenciales.csproj.GenerateResource.cache
+C:\Users\jesus\source\repos\Secuenciales\Secuenciales\obj\Debug\Secuenciales.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\Secuenciales\Secuenciales\obj\Debug\Secuenciales.exe
+C:\Users\jesus\source\repos\Secuenciales\Secuenciales\obj\Debug\Secuenciales.pdb
